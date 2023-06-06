@@ -12,4 +12,4 @@ variable "port_no" {
 }
 variable "instance_type" {}
 variable "bastion_cidr" {}
-//variable "domain_id" {}
+variable "domain_id" {}
